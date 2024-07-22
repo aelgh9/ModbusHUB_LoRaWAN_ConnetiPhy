@@ -1,2 +1,2 @@
-# ModbusHUB_LoRaWAN_ConnetiPhy
-ModbusHUB - LoRaWAN ConnetiPhy
+# ModbusHUB_LoRaWAN_ConnectiPhy
+ModbusHUB - LoRaWAN ConnectiPhy
